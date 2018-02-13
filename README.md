@@ -1,2 +1,2 @@
 # Mail-Automation
-mail Automation repo
+mail Automation repos
